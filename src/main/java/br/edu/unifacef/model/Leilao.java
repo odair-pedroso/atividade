@@ -22,7 +22,7 @@ import javax.validation.constraints.NotNull;
 
 
 @Entity
-public class leilao {
+public class Leilao {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
