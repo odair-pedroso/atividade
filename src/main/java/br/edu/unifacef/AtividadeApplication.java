@@ -1,6 +1,6 @@
 package br.edu.unifacef;
 
-public class Main {
+public class AtividadeApplication {
 
 	public static void main(String[] args) {
 		
